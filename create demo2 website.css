@@ -1,0 +1,93 @@
+body{
+    background-image: url("./image.jpg/photo3.jpg");
+    background-size: cover;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.784))
+}
+
+.row1{
+    font-size: 25px;
+    color: darkorange;
+    
+    border-radius: 5px;
+    background-color: black;
+    padding: 5px;
+}
+.row2{
+    
+    
+    color: whitesmoke;
+    background-color: black;
+    color: darkturquoise;
+    width: 230px;
+    height: 30px;
+    border-radius: 15px;
+
+    
+}
+
+    
+.icon i{
+    color: darkturquoise;
+    border: 1px solid black;
+    background-color: black;
+    
+
+}
+.row3{
+    color: darkorange;
+    
+    background-color: black;
+    width: 100px;
+    height: 50px;
+    border-radius: 35px;
+}
+.row4{
+    color: darkorange;
+    background-color: black;
+    width: 100px;
+    height: 50px;
+    border-radius: 35px;
+}
+.row5{
+    color: darkorange;
+    background-color: black;
+    width: 100px;
+    height: 50px;
+    border-radius: 35px;
+}
+.row6{
+    border: 1px solid black;
+    background-color: black;
+    border-radius: 5px;
+}
+.row7{
+    border: 1px solid black;
+    background-color:black;
+
+}
+.row8{
+    border: 1px,15px solid black;
+    color: aliceblue;
+    
+    background-color:black;
+    border-left: 50px;
+    border-right: 50px;
+    border-top: 50px;
+    border-bottom: 50px;
+    width: 350px;
+    height: 30px;
+    border-radius: 15px;
+    margin: 10px;
+    padding: 10px;
+    
+
+    
+    
+}
+.row9{
+    color: darkorange;
+    background-color: black;
+    width: 100px;
+    height: 50px;
+    border-radius: 25px;
+}

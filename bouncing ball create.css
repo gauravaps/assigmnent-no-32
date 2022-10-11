@@ -1,0 +1,30 @@
+.ball{
+    height: 100px;
+    width: 200px;
+    border-radius: 100%;
+    
+    border: 1px solid;
+    color: green;
+    background-color: red;
+    
+    margin: 0 auto;
+    margin-top: 300px;
+
+    animation: 3s alternate-reverse 0.5s infinite gaurav;
+}
+    @keyframes gaurav{
+        from{
+            margin-top: 0px;
+            margin-left: 0px;
+        }
+        to{
+            margin-top: 500px;
+            margin-right: 200px;
+            background-color: aqua;
+        }
+        
+    }
+    body{
+        background-color: black;
+    }
+
